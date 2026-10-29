@@ -179,7 +179,7 @@ Tim-Hortons-Business-Performance-Dashboard
 
 Hi, I'm **Chandan Singh** 👋
 
-I'm an aspiring **Business Analyst** passionate about transforming data into actionable insights through interactive dashboards, business intelligence, and data storytelling.
+I'm an aspiring **Data Analyst** passionate about transforming data into actionable insights through interactive dashboards, business intelligence, and data storytelling.
 
 ### Connect with me
 
