@@ -4,8 +4,6 @@ An end-to-end Power BI project analyzing sales, profitability, customer behavior
 
 
 
-https://github.com/user-attachments/assets/eb93741c-db6f-4c67-9ee0-7e9952cda902
-
 
 
 ---
@@ -68,14 +66,14 @@ This structure enables clean, reusable relationships across all report pages and
 High-level KPIs (Revenue, Profit, Orders, Units Sold, Profit Margin) with revenue trends over time, revenue by store and category, and top 5 products by revenue.
 
 <p align="center">
-<img src="DashBoard Images/Executive Overview .png" width="100%">
+<img src="DashBoard Images/Excutive Overview.png" width="100%">
 </p>
 
 ### 2. Product & Category Analysis
 Deep dive into product-level performance — top products by revenue and profit, category revenue mix, and a full product performance summary table with margin breakdowns.
 
 <p align="center">
-<img src="DashBoard Images/Product & Category .png" width="100%">
+<img src="DashBoard Images/Product & Category Analysis.png" width="100%">
 </p>
 
 ### 3. Customer & Sales Behavior
@@ -89,7 +87,7 @@ Customer segmentation (new vs. returning), revenue by day of week and time of da
 Store and regional performance comparison, revenue by province (map visual), revenue by city, and a revenue heatmap across Canadian cities.
 
 <p align="center">
-<img src="DashBoard Images/Store & Geogephic Analysis.png" width="100%">
+<img src="DashBoard Images/Store & Geographic Analysis.png" width="100%">
 </p>
 
 All pages include interactive slicers for **Month, Region, Store, Category, and Customer Type**, allowing dynamic filtering across the entire report.
